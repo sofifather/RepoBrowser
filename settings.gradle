@@ -1,0 +1,2 @@
+rootProject.name='RepoBrowser'
+include ':app'
